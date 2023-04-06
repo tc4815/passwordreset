@@ -23,8 +23,8 @@ This tutorial outlines how to unlock, lock, and disable accounts. In addition, i
 
 <h2>List of Prerequisites</h2>
 
-- Microsoft Azure Free Account
-- Understanding of Windows Ost
+- Microsoft Azure
+- Understanding of Windows
 - Understanding how a domain controller interacts with a client
 - Understanding of the difference between dynamic and static DNS assignments
 - Active directory installed
