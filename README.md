@@ -25,7 +25,7 @@ This tutorial outlines how to unlock, lock, and disable accounts. In addition, i
 
 - Microsoft Azure Free Account
 - Understanding of Windows Ost
-- Understanding how a domain controller interacts with a client.
-- Understanding of the difference between dynamic and static DNS assignments.
-- Active directory installed.
-- Users within active directory created.
+- Understanding how a domain controller interacts with a client
+- Understanding of the difference between dynamic and static DNS assignments
+- Active directory installed
+- Users within active directory created
