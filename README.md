@@ -8,7 +8,7 @@ This tutorial outlines how to unlock, lock, and disable accounts. In addition, i
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Resetting Passwords and Unlocking Accounts](https://www.youtube.com/)
+- ### [YouTube: Resetting Passwords and Unlocking Accounts](https://youtu.be/P1lIklqTbMo)
 
 <h2>Environments and Technologies Used</h2>
 
